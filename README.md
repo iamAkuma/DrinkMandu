@@ -27,4 +27,4 @@ Client Setup
 Navigate to the client directory: cd client
 Install client dependencies by running the following command: npm install
 Start the client by running the following command: npm start
-The React client should now be running on http://localhost:8000.
+The React client should now be running on http://localhost:3000.
