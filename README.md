@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -46,58 +45,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# DrinkMandu
-Project Work for college
-
-<h1>Project Name</h1>
-<h2> Beverage Ordering Website-DrinkMandu</h2>
-
-Prerequisites
-To run this project locally, you need to have the following installed:
-
-Node.js - JavaScript runtime environment
-MongoDB - NoSQL database system
-React - JavaScript library for building user interfaces
-Express.js - Web application framework for Node.js
-Installation
-Follow the steps below to get the project up and running on your machine:
-
-Clone this repository to your local machine or download and extract the ZIP file.
-Navigate to the project directory.
-Server Setup
-Install Node.js: Visit the official Node.js website and download the latest stable version for your operating system. Follow the installation instructions to complete the setup.
-Install MongoDB: Visit the official MongoDB website and download the appropriate version for your operating system. Follow the installation instructions to complete the setup.
-Navigate to the server directory: cd server
-Install server dependencies by running the following command: npm install
-Start the server by running the following command: npm start
-The server should now be running on http://localhost:3000.
-Client Setup
-Navigate to the client directory: cd client
-Install client dependencies by running the following command: npm install
-Start the client by running the following command: npm start
-The React client should now be running on http://localhost:3000.
->>>>>>> 28faab2094bdc483f556d693fb26b6bfc5ee80c0
