@@ -19,7 +19,6 @@ export default function Navbar() {
           <Link className="nav-link" to="/login">Login</Link>
         </li>
         
-        
       </ul>
     </div>
   </div>
