@@ -5,6 +5,9 @@ node_modules/
 /.pnp
 .pnp.js
 db.js
+package-lock.json
+package.json
+/backend/node_modules
 
 # testing
 /coverage
